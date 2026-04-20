@@ -32,8 +32,11 @@
 
 ### 2. Аргументы:
   >  python geoguessr_helper.py --cli                  # CLI режим
+
   >  python geoguessr_helper.py --cli --capture        # CLI с кулдауном в 3 секунды заместо вручного нажатия Enter
+
   >  python geoguessr_helper.py --cli --key AIzaSy...  # CLI с ключом
+
   >  python geoguessr_helper.py --cli --key AIzaSy... --capture --bbox 0,0,1280,720 # CLI с выбранной зоной скриншота и ключом
 
 
